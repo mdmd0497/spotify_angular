@@ -28,7 +28,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 # 35 comandos Angular
 https://codigoencasa.com/los-comandos-de-angular-mas-usados/
-## recursos
-link assets https://github.com/leifermendez/angular-spotify/tree/master/src/app/data .
-link libreria iconos https://iconscout.com/unicons/getting-started/line .
-link google fonts https://fonts.google.com/specimen/Poppins .
+## Recursos
+link assets https://github.com/leifermendez/angular-spotify/tree/master/src/app/data  
+link libreria iconos https://iconscout.com/unicons/getting-started/line  
+link google fonts https://fonts.google.com/specimen/Poppins  
